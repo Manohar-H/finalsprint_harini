@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Smartwatch", "price": 150, "image": "/src/assets/Images/Smartwatch.jpg", "description": "A great smartwatch" },
+    { "id": 2, "name": "Designer Bag", "price": 350, "image": "/src/assets/Images/Designerbags.jpeg", "description": "Stylish and elegant bag" },
+    { "id": 3, "name": "Headphones", "price": 100, "image": "/src/assets/Images/Headphones.jpeg", "description": "Noise-cancelling headphones" },
+    { "id": 4, "name": "Running Shoes", "price": 120, "image": "/src/assets/Images/Shoes.jpeg", "description": "Comfortable and durable running shoes" },
+    { "id": 5, "name": "Sunglasses", "price": 75, "image": "/src/assets/Images/Sunglasses.webp", "description": "Stylish sunglasses for sunny days" },
+    { "id": 6, "name": "Bluetooth Speaker", "price": 200, "image": "/src/assets/Images/Speakers.webp", "description": "Portable and powerful speaker" },
+    { "id": 7, "name": "Camera", "price": 500, "image": "/src/assets/Images/Camera.jpg", "description": "Capture your moments in high resolution" },
+    { "id": 8, "name": "Laptop", "price": 900, "image": "/src/assets/Images/Laptop.jpg", "description": "High-performance laptop for professionals" }
+  ]
